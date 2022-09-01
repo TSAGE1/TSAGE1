@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TSAGE1
-- 👀 I’m interested in data ingeneer
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...programer
+- 👀 I’m interested in IA
+- 🌱 I’m currently learning ...data science and IA
+- 💞️ I’m looking to collaborate on ...data ingeneer and programer
 - 📫 How to reach me ...emmatsague@yahoo.fr
 
 <!---
